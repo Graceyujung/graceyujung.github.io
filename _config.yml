@@ -4,3 +4,6 @@ description: >-
 show_downloads: true # or false to indicate whether to provide a download URL
 # Theme
 theme: jekyll-theme-minimal
+
+logo: /assets/img/profile.jpg
+favicon: /assets/img/favicon.ico

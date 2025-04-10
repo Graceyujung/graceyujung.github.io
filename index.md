@@ -4,7 +4,7 @@ title: Grace Jeong
 ---
 
 <!-- Favicon fix -->
-<link rel="icon" type="image/png" href="/assets/img/favicon.png">
+<link rel="icon" href="/graceyujung.github.io/assets/img/favicon.png" type="image/png">
 
 # Welcome! 👋
 

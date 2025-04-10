@@ -5,6 +5,5 @@ show_downloads: true # or false to indicate whether to provide a download URL
 # Themeh
 theme: jekyll-theme-minimal
 
-
 logo: /assets/img/profile.jpg
-favicon: /assets/img/favicon.png
+favicon: /graceyujung.github.io/assets/img/favicon.png

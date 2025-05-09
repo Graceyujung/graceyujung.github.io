@@ -1,61 +1,117 @@
+/* Global Styles */
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #ffffff;
-  color: #333;
+  background-color: #f9f9f9; /* Light neutral background */
+  color: #333333; /* Dark text color for contrast */
   margin: 0;
   padding: 0;
 }
 
-header {
-  background-color: #ff6f61;
-  color: white;
-  padding: 3rem 1rem;
-  text-align: center;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-header h1 {
-  margin-bottom: 0.5rem;
-  font-size: 2.5rem;
-}
-
-header p {
-  font-size: 1.2rem;
-}
-
-section {
-  padding: 2rem 1.5rem;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-h2 {
-  color: #ff6f61;
-  border-bottom: 2px solid #ff6f61;
-  padding-bottom: 0.25rem;
-}
-
-.project {
-  margin-bottom: 1.5rem;
-  background: #fdfdfd;
-  border-left: 4px solid #00bcd4;
-  padding: 1rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+h1, h2, h3 {
+  color: #e91e63; /* Dark Pink for headers */
 }
 
 a {
-  color: #00bcd4;
+  color: #e91e63; /* Dark Pink for links */
+  text-decoration: none;
 }
 
 a:hover {
-  color: #ffeb3b;
   text-decoration: underline;
 }
 
+/* Header Section */
+header {
+  background-color: #e91e63; /* Dark Pink background */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5em;
+}
+
+header p {
+  font-size: 1.2em;
+}
+
+/* About Section */
+#about {
+  background-color: #ffffff; /* White background for neutral look */
+  color: #333333;
+  padding: 40px;
+  text-align: center;
+}
+
+#about h2 {
+  color: #e91e63; /* Dark Pink for the About header */
+}
+
+/* Projects Section */
+#projects {
+  background-color: #fafafa; /* Light grey neutral background */
+  padding: 40px;
+  text-align: center;
+}
+
+.project {
+  margin-bottom: 30px;
+}
+
+.project h3 a {
+  font-size: 1.5em;
+}
+
+.project p {
+  color: #555555;
+}
+
+/* Skills Section */
+#skills {
+  background-color: #ffffff;
+  padding: 40px;
+  text-align: center;
+}
+
+#skills h2 {
+  color: #e91e63;
+}
+
+#skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#skills li {
+  font-size: 1.2em;
+  color: #333333;
+}
+
+/* Contact Section */
+#contact {
+  background-color: #fafafa;
+  padding: 40px;
+  text-align: center;
+}
+
+#contact h2 {
+  color: #e91e63;
+}
+
+#contact p {
+  color: #555555;
+}
+
+/* Footer Section */
 footer {
-  background-color: #00bcd4;
+  background-color: #333333;
   color: white;
   text-align: center;
-  padding: 1rem;
+  padding: 10px;
+  font-size: 0.9em;
+}
+
+footer p {
+  margin: 0;
 }

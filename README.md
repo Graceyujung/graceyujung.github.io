@@ -1,7 +1,7 @@
 # 👩‍💻 Grace Jeong
 
 Data Scientist | Machine Learning Enthusiast | Python Lover  
-📍 Location | 📧 email@example.com | 🌐 [yourwebsite.com](https://yourwebsite.com) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🧠 [Kaggle](https://kaggle.com/yourprofile) | 📊 [Tableau](https://public.tableau.com/app/profile/yourprofile)
+📍 Vancouver, BC | 📧 dbwjd1742@gmail.com | 🌐 [yourwebsite.com](https://yourwebsite.com) | 💼 [LinkedIn](www.linkedin.com/in/graceyujung) | 🧠 [Kaggle](https://kaggle.com/yourprofile) | 📊 [Tableau](https://public.tableau.com/app/profile/yourprofile)
 
 ---
 

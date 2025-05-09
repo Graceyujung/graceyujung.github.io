@@ -1,102 +1,79 @@
----
-layout: default
-title: Grace Jeong
----
+<!-- Favicon fix -->
+<link rel="icon" href="/graceyujung.github.io/assets/img/favicon.png" type="image/png">
 
 <style>
-/* Global Styles */
-body {
-  margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background: #f4f6f8; /* Light background */
-  color: #333; /* Text color */
-}
-
-header {
-  background: #4a90e2; /* Blue background for header */
-  color: white;
-  padding: 40px 20px;
-  text-align: center;
-}
-
-h1 {
-  margin: 0;
-  font-size: 2.5rem; /* Large header */
-}
-
-.container {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 40px 20px;
-}
-
-/* Section Styling */
-.section {
-  margin-bottom: 50px;
-}
-
-h2 {
-  border-bottom: 2px solid #ccc;
-  padding-bottom: 10px;
-  font-size: 1.5rem;
-  color: #4a90e2;
-}
-
-.project {
-  background: white;
-  border-radius: 10px;
-  padding: 20px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  margin-top: 20px;
-}
-
-.project h3 {
-  margin-top: 0;
-}
-
-.project a {
-  text-decoration: none;
-  color: #4a90e2;
-  font-weight: bold;
-}
-
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #eaeaea;
-  color: #555;
-  font-size: 1rem;
-}
+  /* Global Styles */
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #f4f6f8; /* Light background */
+    color: #333; /* Text color */
+  }
+  header {
+    background: #4a90e2; /* Blue background for header */
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  h1 {
+    margin: 0;
+    font-size: 2.5rem; /* Large header */
+  }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  /* Section Styling */
+  .section {
+    margin-bottom: 50px;
+  }
+  h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+    font-size: 1.5rem;
+    color: #4a90e2;
+  }
+  .project {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-top: 20px;
+  }
+  .project h3 {
+    margin-top: 0;
+  }
+  .project a {
+    text-decoration: none;
+    color: #4a90e2;
+    font-weight: bold;
+  }
+  footer {
+    text-align: center;
+    padding: 20px;
+    background: #eaeaea;
+    color: #555;
+    font-size: 1rem;
+  }
 </style>
 
+# Grace Jeong's Portfolio
 
-<header>
-  <h1>Grace Jeong</h1>
-  <p>Aspiring Data Analyst | Retail • Healthcare • Psychology</p>
-</header>
+Welcome to my data science portfolio! Here you can explore my projects, skills, and contact details.
 
-<div class="container">
-  <section class="section">
-    <h2>About Me</h2>
-    <p>Hello! I'm Grace, a data science student with a background in hospitality...</p>
-  </section>
+## About Me
 
-  <section class="section">
-    <h2>Projects</h2>
-    <div class="project">
-      <h3>🎧 Podcast Listening Time Prediction</h3>
-      <p>Used Random Forest, XGBoost, and LightGBM...</p>
-      <a href="https://github.com/graceyujung/podcast-project">View Project</a>
-    </div>
-  </section>
+Hello! I'm Grace, a data science student passionate about analytics, retail, healthcare, and psychology.
 
-  <section class="section">
-    <h2>Contact</h2>
-    <p>Email: grace.data@example.com</p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourlinkedin">yourlinkedin</a></p>
-  </section>
-</div>
+## Projects
 
-<footer>
-  <p>&copy; 2025 Grace Jeong</p>
-</footer>
+### Podcast Listening Time Prediction
+
+Built models using Random Forest, XGBoost, and LightGBM to predict podcast listening times.
+
+### Contact
+
+Email: grace.data@example.com
+
+LinkedIn: [Grace Jeong](https://linkedin.com/in/yourlinkedin)

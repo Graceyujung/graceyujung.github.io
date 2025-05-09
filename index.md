@@ -74,6 +74,6 @@ Built models using Random Forest, XGBoost, and LightGBM to predict podcast liste
 
 ### Contact
 
-Email: grace.data@example.com
+Email: dbwjd1742@gmail.com
 
-LinkedIn: [Grace Jeong](https://linkedin.com/in/yourlinkedin)
+LinkedIn: [Grace Jeong](https://linkedin.com/in/graceyujung)

@@ -1,42 +1,36 @@
-/* styles.css */
-
-/* Overall page background and text */
 body {
-  background-color: #f5f7fa;   /* light gray-blue background */
-  color: #333;                 /* dark text color */
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+  line-height: 1.6;
   margin: 0;
   padding: 0;
 }
 
-/* Header styles */
 header {
-  background-color: #1f2937;   /* dark navy background */
+  background-color: #ff6f61; /* coral */
   color: white;
-  text-align: center;
   padding: 2rem;
+  text-align: center;
 }
 
-/* Section titles */
-h2 {
-  color: #1e40af;  /* blue for section headings */
-}
-
-/* Project links */
 a {
-  color: #2563eb;  /* link blue */
+  color: #00bcd4; /* sky blue */
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #ffeb3b; /* lemon yellow */
 }
 
-/* Footer */
+section {
+  padding: 2rem;
+}
+
 footer {
-  background-color: #1f2937;
+  background-color: #00bcd4;
   color: white;
   text-align: center;
   padding: 1rem;
-  margin-top: 2rem;
 }

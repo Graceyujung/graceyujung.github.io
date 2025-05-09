@@ -1,32 +1,42 @@
+/* styles.css */
+
+/* Overall page background and text */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-    margin: 0;
-    padding: 0;
+  background-color: #f5f7fa;   /* light gray-blue background */
+  color: #333;                 /* dark text color */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
+/* Header styles */
 header {
-    background-color: #4CAF50;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
+  background-color: #1f2937;   /* dark navy background */
+  color: white;
+  text-align: center;
+  padding: 2rem;
 }
 
-h1 {
-    margin: 0;
+/* Section titles */
+h2 {
+  color: #1e40af;  /* blue for section headings */
 }
 
+/* Project links */
+a {
+  color: #2563eb;  /* link blue */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
 footer {
-    text-align: center;
-    background-color: #333;
-    color: white;
-    padding: 0.5em 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-#projects {
-    padding: 2em;
+  background-color: #1f2937;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
 }

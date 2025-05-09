@@ -1,9 +1,0 @@
-title: "Grace Jeong"
-description: >-
-  Data Science Portfolio – Projects, Resume, and Skills.
-show_downloads: true # or false to indicate whether to provide a download URL
-# Themeh
-theme: jekyll-theme-minimal
-
-logo: /assets/img/profile.jpg
-favicon: /graceyujung.github.io/assets/img/favicon.png

@@ -1,8 +1,3 @@
----
-layout: default
-title: Grace Jeong
----
-
 <style>
 body {
   margin: 0;
@@ -82,8 +77,6 @@ footer {
       <p>Built regression models (Random Forest, XGBoost, LightGBM) to predict podcast listening times. Analyzed feature importance, visualized data patterns, and tuned models with GridSearchCV.</p>
       <a href="https://github.com/yourusername/Podcast-Prediction">View Project</a>
     </div>
-
-    <!-- Add more projects here if needed -->
   </div>
 
   <div class="section">

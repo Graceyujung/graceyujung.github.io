@@ -33,6 +33,7 @@ header h1 {
 }
 
 header p {
+  color: white !important;
   font-size: 1.2em;
 }
 

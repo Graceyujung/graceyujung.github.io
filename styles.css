@@ -10,16 +10,16 @@
   height: 160px;
   object-fit: cover;
   border-radius: 50%;
-  border: 3px solid #f0e3d3;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border: 3px solid #e7d8c6;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
   margin: 0 auto 20px;
   display: block;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .profile-photo:hover {
-  transform: scale(1.05); /* 살짝 확대 효과 */
-  box-shadow: 0 6px 20px rgba(92, 143, 148, 0.6);
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(236, 144, 168, 0.4);
 }
 
 

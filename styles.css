@@ -102,3 +102,8 @@ footer {
   color: #555;
   line-height: 1.6;
 }
+
+#upcoming-projects p {
+  margin-bottom: 16px;
+}
+

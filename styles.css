@@ -67,3 +67,38 @@ footer {
   color: #888;
   margin-top: 40px;
 }
+
+/* Upcoming Projects Section Styling */
+#upcoming-projects {
+  background-color: #f6f3f0;
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+#upcoming-projects .project {
+  background-color: #ffffff;
+  border-left: 4px solid #b9a89e;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  border-radius: 8px;
+}
+
+#upcoming-projects h2 {
+  font-size: 1.8rem;
+  border-bottom: 2px solid #d3ccc2;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+#upcoming-projects .project h3 {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+#upcoming-projects .project p {
+  color: #555;
+  line-height: 1.6;
+}

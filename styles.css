@@ -6,14 +6,15 @@
 }
 
 .profile-photo {
-  width: 130px;
-  height: 130px;
+  width: 160px;
+  height: 160px;
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid #f0e3d3;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   margin: 0 auto 20px;
   display: block;
+  transition: transform 0.3s ease;
 }
 
 .profile-photo:hover {

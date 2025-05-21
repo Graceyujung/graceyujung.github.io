@@ -70,40 +70,40 @@ footer {
 
 /* Upcoming Projects Section Styling */
 #upcoming-projects {
-  background: linear-gradient(135deg, #fff8f0, #fdebd3);
+  background: linear-gradient(135deg, #f7f5f2, #e7e3de); /* 노란빛 대신 차분한 아이보리/베이지 그라데이션 */
   padding: 35px 40px;
   border-radius: 14px;
   margin-top: 50px;
-  box-shadow: 0 8px 20px rgba(243, 189, 148, 0.3);
+  box-shadow: 0 8px 20px rgba(170, 150, 130, 0.2); /* 노란 빛 연하게 조절 */
   font-family: 'Merriweather', serif;
   color: #5a3e2b;
 }
 
 #upcoming-projects .project {
-  background-color: #fff3e6;
-  border-left: 6px solid #d9a66b;
+  background-color: #f0ede9; /* 연한 그레이쉬 베이지톤 */
+  border-left: 6px solid #a1887f; /* 노란 오렌지 대신 부드러운 브라운 */
   padding: 20px 25px;
   margin-bottom: 28px;
-  box-shadow: 0 4px 10px rgba(210, 150, 90, 0.15);
+  box-shadow: 0 4px 10px rgba(161, 139, 124, 0.12); /* 은은한 그림자 */
   border-radius: 10px;
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 #upcoming-projects .project:hover {
-  background-color: #fde7c3;
-  box-shadow: 0 6px 18px rgba(223, 140, 34, 0.35);
+  background-color: #e7e4e0; /* 아주 연한 회갈색으로 변함 */
+  box-shadow: 0 6px 18px rgba(120, 100, 90, 0.2);
 }
 
 #upcoming-projects h2 {
   font-size: 2rem;
-  border-bottom: 3px solid #d9a66b;
+  border-bottom: 3px solid #a1887f; /* 브라운톤 */
   margin-bottom: 25px;
-  color: #7a5a38;
+  color: #5a4739;
 }
 
 #upcoming-projects .project h3 {
   font-size: 1.3rem;
-  color: #6b4b2a;
+  color: #6b5b4a;
   margin-bottom: 12px;
 }
 
@@ -113,7 +113,7 @@ footer {
 }
 
 #upcoming-projects p {
-  color: #6a5132;
+  color: #6a5a4a;
   line-height: 1.75;
   margin-bottom: 18px;
 }

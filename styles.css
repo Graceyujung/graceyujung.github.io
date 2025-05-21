@@ -70,32 +70,41 @@ footer {
 
 /* Upcoming Projects Section Styling */
 #upcoming-projects {
-  background-color: #f6f3f0;
-  padding: 30px;
-  border-radius: 10px;
-  margin-top: 40px;
+  background: linear-gradient(135deg, #fff8f0, #fdebd3);
+  padding: 35px 40px;
+  border-radius: 14px;
+  margin-top: 50px;
+  box-shadow: 0 8px 20px rgba(243, 189, 148, 0.3);
+  font-family: 'Merriweather', serif;
+  color: #5a3e2b;
 }
 
 #upcoming-projects .project {
-  background-color: #ffffff;
-  border-left: 4px solid #b9a89e;
-  padding: 15px 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-  border-radius: 8px;
+  background-color: #fff3e6;
+  border-left: 6px solid #d9a66b;
+  padding: 20px 25px;
+  margin-bottom: 28px;
+  box-shadow: 0 4px 10px rgba(210, 150, 90, 0.15);
+  border-radius: 10px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#upcoming-projects .project:hover {
+  background-color: #fde7c3;
+  box-shadow: 0 6px 18px rgba(223, 140, 34, 0.35);
 }
 
 #upcoming-projects h2 {
-  font-size: 1.8rem;
-  border-bottom: 2px solid #d3ccc2;
-  margin-bottom: 20px;
-  color: #444;
+  font-size: 2rem;
+  border-bottom: 3px solid #d9a66b;
+  margin-bottom: 25px;
+  color: #7a5a38;
 }
 
 #upcoming-projects .project h3 {
-  font-size: 1.2rem;
-  color: #333;
-  margin-bottom: 10px;
+  font-size: 1.3rem;
+  color: #6b4b2a;
+  margin-bottom: 12px;
 }
 
 #upcoming-projects .project p {
@@ -104,6 +113,7 @@ footer {
 }
 
 #upcoming-projects p {
-  margin-bottom: 16px;
+  color: #6a5132;
+  line-height: 1.75;
+  margin-bottom: 18px;
 }
-
